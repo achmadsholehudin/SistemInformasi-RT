@@ -1,4 +1,4 @@
-# sio-ci
+# sisteminformasi-rt
 
 Aplikasi surat izin online berbasis web yang menggunakan CodeIgniter3
 
