@@ -8,7 +8,7 @@ Aplikasi Manajemen RT berbasis web yang menggunakan CodeIgniter3
 <h1>Cara Install</h1>
 Buat database dengan nama <kbd>db_sim-rt</kbd>. Kemudian import database pada folder <kbd>sql</kbd>. Jangan lupa setting lagi file <kbd>config.php</kbd> nya. 
 <br/>
-
+ 
 <h3>Login Admin</h3>
 <ul>
 <li>username: admin <br/> password : admin </li>
